@@ -9,6 +9,7 @@
 body,
 html {
     background: linear-gradient(#3b89ff, #000);
+    background: red !important;
     height: 100%;
 }
 
